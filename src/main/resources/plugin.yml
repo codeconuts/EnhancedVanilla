@@ -1,0 +1,9 @@
+name: EnhancedVanilla
+version: Alpha 1.0
+main: com.teampublic.enhancedvanilla.EnhancedVanilla
+commands:
+  trackcombat:
+    usage: Adds a track to a player.
+permissions:
+  enhancedvanilla.trackcombat:
+    default: op
